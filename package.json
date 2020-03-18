@@ -1,0 +1,25 @@
+{
+  "name": "maka-init-config",
+  "version": "1.0.0",
+  "description": "maka2 init 配置模板",
+  "files": [
+    "index.js"
+  ],
+  "config": {
+    "boilerplate": {
+      "helloworld": {
+        "package": "maka-boilerplate-helloworld",
+        "description": "创建一个简单的helloworld模板"
+      }
+    }
+  },
+  "homepage": "https://github.com/ziaochina/maka-init-config",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ziaochina/maka-init-config.git"
+  },
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "author": "zhangliujian <ziaochina@gmail.com>"
+}

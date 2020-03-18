@@ -1,2 +1,2 @@
 # maka-init-config
-maka init 配置项目
+maka2 init 命令使用的配置项目
